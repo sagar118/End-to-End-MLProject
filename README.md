@@ -8,3 +8,5 @@
 4. Work on EDA and model training in jupyter notebook.
 5. Data Ingestion
 6. Data Transformation
+7. Model Trainer
+8. Hyperparameter Tuning
