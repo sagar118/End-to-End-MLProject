@@ -10,3 +10,4 @@
 6. Data Transformation
 7. Model Trainer
 8. Hyperparameter Tuning
+9. Prediction Pipeline
